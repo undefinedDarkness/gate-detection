@@ -7,5 +7,8 @@ After converting the initial algorithm to C++ and multithreading with C++ thread
 
 * - FPS Measurement might be slightly incorrect
 
+## Architecture
+![diagram](image.png)
+
 ## Task Description
 The aim of this task is to swim through a gate placed at the bottom of the pool. The gate may be located anywhere on a horizontal line, parallel to the side of the swimming pool, approximately 12m away from the starting zone. See Figure 4. The AUV has to swim through the 150 cm tall gate without touching the gate.
