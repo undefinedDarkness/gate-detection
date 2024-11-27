@@ -5,7 +5,7 @@ This code is for the SAUVC Gate Task.
 
 After converting the initial algorithm to C++ and multithreading with C++ threads and msd/channels, we were able to improve performance from 11-12FPS to a stable 30-40FPS* on Laptop
 
-* - FPS Measurement might be slightly incorrect
+- FPS Measurement might be slightly incorrect
 
 ## Architecture
 ![diagram](image.png)
